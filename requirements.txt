@@ -1,6 +1,0 @@
-requests
-urllib
-pandas
-ipwhois
-json
-pathlib
